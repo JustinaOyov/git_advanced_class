@@ -1,8 +1,7 @@
 const helloWorld = function() {
   return 'Hello world!';
 };
-
-console.log(helloWorld());
-
+const byeworld = function()
+console.log(helloWorld())
 console.log("Hello again");
 console.log("potatoes");
